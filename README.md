@@ -1,3 +1,5 @@
 # ThirtyDaysChallenge
 <br>
-Arya Soni 
+Learning a little every day to get better and stronger !!
+
+
