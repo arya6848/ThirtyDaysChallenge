@@ -17,4 +17,7 @@ Day 4--Internal Working of SpringBoot(Configuration, application.properties file
 <br>
 <br>
 Day 5--Internal Working of SpringBoot( @ConditionalOnProperty annotation, What happens when we run a SpringBoot Application)
+<br>
+<br>
+Day 6--Working of a Web Server in SpringBoot.
 
