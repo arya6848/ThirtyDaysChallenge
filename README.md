@@ -20,4 +20,7 @@ Day 5--Internal Working of SpringBoot( @ConditionalOnProperty annotation, What h
 <br>
 <br>
 Day 6--Working of a Web Server in SpringBoot.
+<br>
+<br>
+Day 7--Notes prepration of (When we run SpringBoot Application)
 
