@@ -29,4 +29,7 @@ Day 8--Notes Revision.
 <br>
 <br>
 Day 9--Notes Revision.
+<br>
+<br>
+Day 10--Configuration of application.properties, difference between application.properties and application.yml
 
