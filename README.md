@@ -44,5 +44,8 @@ Day 13--Build REST APIs.
 <br>
 <br>
 Day 14--Notes Prepration.
+<br>
+<br>
+Day 15--Lombok annotation library, @data annotation
 
 
