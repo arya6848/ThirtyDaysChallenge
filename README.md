@@ -50,4 +50,7 @@ Day 15--Lombok annotation library, @data annotation
 <br>
 <br>
 Day 16--Working of Web Server, Installation of PostgreSQL
+<br>
+<br>
+Day 17--Database Connection to SpringBoot Application, @Entity, @ID, @GeneratedValue.
 
