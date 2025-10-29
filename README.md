@@ -53,4 +53,7 @@ Day 16--Working of Web Server, Installation of PostgreSQL
 <br>
 <br>
 Day 17--Database Connection to SpringBoot Application, @Entity, @ID, @GeneratedValue.
+<br>
+<br>
+Day 18--Notes Prepration and Revision.
 
