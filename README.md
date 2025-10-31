@@ -56,4 +56,10 @@ Day 17--Database Connection to SpringBoot Application, @Entity, @ID, @GeneratedV
 <br>
 <br>
 Day 18--Notes Prepration and Revision.
+<br>
+<br>
+Day 19--built controller layer, built database
+<br>
+<br>
+Day 20--Connected Database to Controller Layer, Built API
 
