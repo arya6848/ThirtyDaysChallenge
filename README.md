@@ -62,4 +62,7 @@ Day 19--built controller layer, built database
 <br>
 <br>
 Day 20--Connected Database to Controller Layer, Built API, @RequiredArgsConstructor
+<br>
+<br>
+Day 21--Notes Prepration and Revision
 
