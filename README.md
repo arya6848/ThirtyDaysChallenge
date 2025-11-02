@@ -65,4 +65,7 @@ Day 20--Connected Database to Controller Layer, Built API, @RequiredArgsConstruc
 <br>
 <br>
 Day 21--Notes Prepration and Revision
+<br>
+<br>
+Day 22--SpringBoot Initializr, Different options for creating Springboot Application.
 
