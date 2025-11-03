@@ -68,4 +68,8 @@ Day 21--Notes Prepration and Revision
 <br>
 <br>
 Day 22--SpringBoot Initializr, Different options for creating Springboot Application.
+<br>
+<br>
+Day 23--.stream(),.map(),.toList()
+
 
