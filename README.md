@@ -71,5 +71,7 @@ Day 22--SpringBoot Initializr, Different options for creating Springboot Applica
 <br>
 <br>
 Day 23--.stream(),.map(),.toList()
-
+<br>
+<br>
+Day 24--@pathVariable,ORM in SpringBoot
 
