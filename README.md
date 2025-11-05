@@ -74,4 +74,5 @@ Day 23--.stream(),.map(),.toList()
 <br>
 <br>
 Day 24--@pathVariable,ORM in SpringBoot
+Day 25-- Model Mapper Class, @Configuration,ElseThrow(), Build API
 
