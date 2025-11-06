@@ -73,6 +73,9 @@ Day 22--SpringBoot Initializr, Different options for creating Springboot Applica
 Day 23--.stream(),.map(),.toList()
 <br>
 <br>
-Day 24--@pathVariable,ORM in SpringBoot
+Day 24--@PathVariable,ORM in SpringBoot
 Day 25-- Model Mapper Class, @Configuration,ElseThrow(), Build API
+<br>
+<br>
+Day 26--@PostMapping, Response Entity
 
