@@ -78,4 +78,7 @@ Day 25-- Model Mapper Class, @Configuration,ElseThrow(), Build API
 <br>
 <br>
 Day 26--@PostMapping, Response Entity
+<br>
+<br>
+Day 27--Spring Profiles, @Value, externalize configuration.
 
