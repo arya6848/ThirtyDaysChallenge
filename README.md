@@ -83,6 +83,7 @@ Day 26--@PostMapping, Response Entity
 Day 27--Spring Profiles, @Value, externalize configuration.
 <br>
 <br>
-Day 28--@ResponseBody, postman
+Day 28--@ResponseBody, post API
+Day 29--@DeleteMapping, @PutMapping, @PatchMapping
 
 
